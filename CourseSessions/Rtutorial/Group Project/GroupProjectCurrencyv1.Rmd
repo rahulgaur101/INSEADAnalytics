@@ -1,6 +1,6 @@
 ---
 title: "GroupProjectOilPrices"
-author: "Rahul Gaur"
+author: "Rahul Gaur, Atul Shukla, Hwansoo Joo, Ji Eun Seo"
 date: "January 11, 2017"
 output: html_document
 ---
@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## The Busienss Problem
+## The Business Problem
 
 Analyzing the effects of oil price fluctuations on global current. The idea is to study currencies of nations that fall under the following segments:
 
