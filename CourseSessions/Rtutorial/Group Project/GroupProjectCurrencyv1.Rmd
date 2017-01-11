@@ -1,0 +1,37 @@
+---
+title: "GroupProjectOilPrices"
+author: "Rahul Gaur"
+date: "January 11, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The Busienss Problem
+
+Analyzing the effects of oil price fluctuations on global current. The idea is to study currencies of nations that fall under the following segments:
+
+--North America <br>
+--Asia <br>
+--Middle East (OPEC) <br>
+--Russia <br>
+--Europe <br>
+
+## Gather data
+
+Gather data on crude oil prices and currencies for the time period 2008-2016. We will try to capture as many parameters that affect currency fluctuations 
+
+## Visualize data and see how it can be useful for the analysis
+
+Create relevant plots to study correlation for the period 2008-2016
+
+## Aggregation: Rearrange data in a format that allows pattern recognition
+
+## Build the model and assess model accuracy
+
+## Use the model to make predictions
+
+## Visualize the Results
+
