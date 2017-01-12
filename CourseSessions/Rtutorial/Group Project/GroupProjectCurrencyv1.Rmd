@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## The Business Problem
 
-Analyzing the effects of oil price fluctuations on global current. The idea is to study currencies of nations that fall under the following segments:
+Analyzing the effects of oil price fluctuations on global currency. The idea is to study currencies of nations that fall under the following segments:
 
 --North America <br>
 --Asia <br>
